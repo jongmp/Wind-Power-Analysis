@@ -13,3 +13,11 @@ Locating Ideal Cities for Wind Turbines & Exploratory Data Analysis of Wind Spee
 ## Introduction
 
 All of the data for this project was collected from the National Centers for Environmental Information. The original data included Climate Data from weather stations worldwide and included several million data points for each year. The data was cleaned and organized through mysql. The link to the original weather data is included [here](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00861/html).
+
+## Description
+
+wind_power_analysis.ipynb contains most of the data analysis regarding the wind speed, location, and energy output of the wind turbines in the United States. 
+
+other_aspects.ipynb contains additional information regarding the humidity, temperature, and other aspects of the weather and location that affect the function of wind turbines.
+
+data_folder contains all the data that was collected and cleaned from National Centers for Environmental Information.
